@@ -5,7 +5,7 @@ include:
 
 aik-ui:
     git.latest:
-     - name: https://github.com/dvlopez9811/aik-portal-frontend
+     - name: https://github.com/RicNuva18/aik-portal-frontend
      - target: /srv/app
     require:
      - pgk: git
